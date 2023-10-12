@@ -14,5 +14,5 @@ Best-case time complexity: O(n^2) because it performs the same number of compari
 #merge sort -> based on divide and conquer method .
 Time comlexity ->o(NlogN)
 
-#Quick sort-> based on divide and conquer method .
+#Quick sort-> based on divide and conquer method.
  
